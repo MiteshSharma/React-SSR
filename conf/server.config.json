@@ -1,0 +1,14 @@
+{
+    "development": {
+        "configType": "development",
+        "appName": "Dashboard Mobile App",
+        "appDesc": "Dashboard Mobile App",
+        "port": 3001,
+        "apiTargetHost": "http://localhost:8081"
+    },
+    "production": {
+        "configType": "production",
+        "apiTargetHost": "http://localhost:8081",
+        "port": 3001
+    }
+}

@@ -1,0 +1,8 @@
+build/
+node_modules/
+.vscode/
+nvm/
+yarn.lock
+.editorconfig
+package-lock.json
+*.swp
